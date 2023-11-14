@@ -1,0 +1,47 @@
+.box_vistoria {
+  display: flex;
+  vertical-align: middle;
+  justify-content: center;
+
+}
+
+.box_filho_vistoria {
+  width: 300px;
+  padding: 40px;
+  margin: 10px;
+  border: 1px solid #000;
+  background-color: rgb(25, 104, 207);
+
+}
+
+.label_vistoria {
+  color:rgb(209, 229, 255);
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.Vistoria_input {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: rgb(168, 202, 247);
+  border-radius: 4px;
+  border: none;
+}
+
+.h1_vistoria {
+  text-align: center;
+  margin: 20px 0px 20px;
+}
+
+.button_vistoria {
+  background-color: rgb(168, 202, 247);
+  margin-left: 70px;
+  padding: 10px 10px;
+  margin-top: 14px;
+  border: none;
+  cursor: pointer;
+}
+
+.box_filho_vistoria_img {
+  background-color: white;
+}

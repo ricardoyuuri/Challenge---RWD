@@ -1,0 +1,34 @@
+.img_sobreNos {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.div_contenedor {
+  display: inline-block;
+  background-color: rgb(136, 178, 241);
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  padding: 20px;
+  margin-bottom: 80px;
+  border-radius: 10px;
+  margin-left: 5%;
+}
+.h1_sobreNos {
+  margin-left: 5%;
+  margin-bottom: 30px;
+}
+.p_sobreNos{
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 50px;
+
+}
+span {
+  margin-left: 60px;
+  color:rgb(81, 175, 238);
+  text-align: end;
+}
+
+.box_sobreNos{
+  margin-left: 5%;
+}

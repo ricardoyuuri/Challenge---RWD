@@ -1,0 +1,44 @@
+.box_contato {
+    display: flex;
+    vertical-align: middle;
+    justify-content: space-between;
+    background-color: rgb(163, 195, 255);
+    
+}
+
+.h2_contato {
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 15px;
+
+}
+.h1_contato{
+    padding: 20px 40px;
+    font-size: 38px;
+    font-weight: bold;
+
+}
+.p_contato {
+    padding: 10px 40px;
+    font-size: 25px;
+}
+
+.img_contato {
+    width: 300px;
+}
+
+.button_contato {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(39, 139, 233);
+    padding: 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.box_button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}

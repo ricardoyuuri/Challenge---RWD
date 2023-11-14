@@ -1,0 +1,119 @@
+[
+  {
+    "ano": "2010",
+    "jogo": "Red Dead Redemption",
+    "desenvolvedora": "Rockstar Games",
+    "criador": "Dan Houser",
+    "genero": "Ação-aventura",
+    "custo": "60 USD",
+    "descricao": "Red Dead Redemption é um jogo de ação-aventura ambientado no Velho Oeste dos Estados Unidos. O jogador assume o papel de John Marston, um ex-bandido que é forçado a trabalhar para o governo para proteger sua família. O jogo é conhecido por seus gráficos impressionantes, história envolvente e gameplay realista."
+  },
+  {
+    "ano": "2011",
+    "jogo": "The Elder Scrolls V: Skyrim",
+    "desenvolvedora": "Bethesda Game Studios",
+    "criador": "Todd Howard",
+    "genero": "RPG",
+    "custo": "60 USD",
+    "descricao": "The Elder Scrolls V: Skyrim é um jogo de RPG de mundo aberto ambientado na província de Skyrim, na Tamriel. O jogador assume o papel de um Dragonborn, um guerreiro escolhido para derrotar o dragão Alduin. O jogo é conhecido por sua liberdade de exploração, sistema de combate complexo e história rica."
+  },
+  {
+    "ano": "2012",
+    "jogo": "Mass Effect 3",
+    "desenvolvedora": "BioWare",
+    "criador": "Casey Hudson",
+    "genero": "RPG de ação",
+    "custo": "60 USD",
+    "descricao": "Mass Effect 3 é um jogo de RPG de ação ambientado no universo Mass Effect. O jogador assume o papel de Shepard, um comandante que lidera uma equipe de soldados em uma missão para salvar a galáxia da ameaça dos Reapers. O jogo é conhecido por sua história emocionante, escolhas significativas e personagens memoráveis."
+  },
+  {
+    "ano": "2013",
+    "jogo": "Grand Theft Auto V",
+    "desenvolvedora": "Rockstar Games",
+    "criador": "Dan Houser",
+    "genero": "Ação-aventura",
+    "custo": "60 USD",
+    "descricao": "Grand Theft Auto V é um jogo de ação-aventura ambientado na cidade fictícia de Los Santos, na Califórnia. O jogador assume o papel de três personagens diferentes: Michael, Franklin e Trevor. O jogo é conhecido por seu mundo aberto vibrante, gameplay divertido e história cativante."
+  },
+  {
+    "ano": "2014",
+    "jogo": "The Witcher 3: Wild Hunt",
+    "desenvolvedora": "CD Projekt RED",
+    "criador": "Marcin Iwiński",
+    "genero": "RPG",
+    "custo": "60 USD",
+    "descricao": "The Witcher 3: Wild Hunt é um jogo de RPG ambientado no mundo ficcional de The Witcher. O jogador assume o papel de Geralt de Rivia, um caçador de monstros contratado para encontrar a filha adotiva Ciri. O jogo é conhecido por seu mundo aberto vasto e detalhado, narrativa épica e combate desafiador."
+  },
+  {
+    "ano": "2015",
+    "jogo": "Metal Gear Solid V: The Phantom Pain",
+    "desenvolvedora": "Kojima Productions",
+    "criador": "Hideo Kojima",
+    "genero": "Ação-aventura",
+    "custo": "60 USD",
+    "descricao": "Metal Gear Solid V: The Phantom Pain é um jogo de ação-aventura stealth ambientado no Afeganistão e na Zâmbia. O jogador assume o papel de Big Boss, um ex-soldado que está sequestrado e levado para a Zâmbia. O jogo é conhecido por seu gameplay furtivo complexo, história emocionante e personagens memoráveis."
+  },
+  {
+    "ano": "2016",
+    "jogo": "Overwatch",
+    "desenvolvedora": "Blizzard Entertainment",
+    "criador": "Jeff Kaplan",
+    "genero": "Tiro em primeira pessoa",
+    "custo": "60 USD",
+    "descricao": "Overwatch é um jogo de tiro em primeira pessoa multiplayer que coloca os jogadores em equipes de seis para disputar"
+  },
+  {
+    "ano": "2017",
+    "jogo": "The Legend of Zelda: Breath of the Wild",
+    "desenvolvedora": "Nintendo EPD",
+    "criador": "Eiji Aonuma",
+    "genero": "Ação-aventura",
+    "custo": "60 USD",
+    "descricao": "The Legend of Zelda: Breath of the Wild é um jogo de ação-aventura ambientado no mundo de Hyrule. O jogador assume o papel de Link, um jovem que acorda após um sono de 100 anos para salvar a princesa Zelda da malvada Rainha Calamity Ganon. O jogo é conhecido por seu mundo aberto vasto e detalhado, gameplay inovador e exploração recompensadora."
+  },
+  {
+    "ano": "2018",
+    "jogo": "God of War",
+    "desenvolvedora": "Santa Monica Studio",
+    "criador": "Cory Barlog",
+    "genero": "Ação-aventura",
+    "custo": "60 USD",
+    "descricao": "God of War é um jogo de ação-aventura ambientado no mundo da mitologia nórdica. O jogador assume o papel de Kratos, um ex-deus grego que agora vive na mitologia nórdica com seu filho Atreus. O jogo é conhecido por sua história emocionante, combate visceral e personagens memoráveis."
+  },
+  {
+    "ano": "2019",
+    "jogo": "Super Smash Bros. Ultimate",
+    "desenvolvedora": "Sora Ltd.",
+    "criador": "Masahiro Sakurai",
+    "genero": "Luta",
+    "custo": "60 USD",
+    "descricao": "Super Smash Bros. Ultimate é um jogo de luta crossover que apresenta personagens de diversas franquias da Nintendo e de outras empresas. O jogo é conhecido por seu elenco enorme de personagens, gameplay frenético e variedade de modos de jogo."
+  },
+  {
+    "ano": "2020",
+    "jogo": "The Last of Us Part II",
+    "desenvolvedora": "Naughty Dog",
+    "criador": "Neil Druckmann",
+    "genero": "Ação-aventura",
+    "custo": "60 USD",
+    "descricao": "The Last of Us Part II é um jogo de ação-aventura ambientado em um mundo pós-apocalíptico. O jogador assume o papel de Ellie, uma jovem que busca vingança pela morte de sua melhor amiga. O jogo é conhecido por sua história emocionante, combate visceral e personagens memoráveis."
+  },
+  {
+    "ano": "2021",
+    "jogo": "Ratchet & Clank: Rift Apart",
+    "desenvolvedora": "Insomniac Games",
+    "criador": "Marcus Smith",
+    "genero": "Plataforma",
+    "custo": "60 USD",
+    "descricao": "Ratchet & Clank: Rift Apart é um jogo de plataforma ambientado no universo Ratchet & Clank. O jogador assume o papel de Ratchet e Clank, dois amigos que se aventuram em dimensões diferentes para impedir que o malvado Nefarious crie um exército de robôs. O jogo é conhecido por seus gráficos impressionantes, gameplay divertido e história cativante."
+  },
+  {
+    "ano": "2022",
+    "jogo": "Elden Ring",
+    "desenvolvedora": "FromSoftware",
+    "criador": "Hidetaka Miyazaki",
+    "genero": "RPG de ação",
+    "custo": "60 USD",
+    "descricao": "Elden Ring é um jogo de RPG de ação ambientado no mundo de Lands Between. O jogador assume o papel de um Tarnished, um exilado que retorna a Lands Between para reivindicar o Elden Ring, um item sagrado que foi partido em fragmentos. O jogo é conhecido por seu mundo aberto vasto e detalhado, combate desafiador e narrativa épica."
+  }
+]
